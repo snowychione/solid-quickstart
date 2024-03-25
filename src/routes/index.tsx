@@ -6,6 +6,7 @@ export default function Home() {
     <main>
       <Title>Hello World!</Title>
       <h1>Hello world!</h1>
+      <p> first website made using solid start, still learning :3 </p>
       <Counter />
       <p>
         Visit{" "}
